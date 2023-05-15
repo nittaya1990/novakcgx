@@ -1,53 +1,109 @@
-Hi, I'm Novak :wave:
-====================
+# Hi, I'm Zach :wave:
 
-Free software advocate, digital media designer, writer, and aspiring computer
-graphics scientist.
+Software engineer, digital media designer, and aspiring software entrepreneur.  
+Building [Abyss Inc.][abyss]
 
-Life
-----
+[abyss]: https://github.com/abyss-inc
 
-<img align="right" src="img/scene.png">
+## Life
 
-![](https://static.fsf.org/nosvn/associate/crm/5636489.png)
+<img align="right" alt="Bred the penguin chillin' by the fire." width="350" src="img/Fire.gif" />
 
-:shipit: [**Free Software Foundation**][fsf] Student Associate Member  
-:shipit: **University of Rochester** Computer Science '25  
-:shipit: [**Computer Graphics Central**][cgcentral] founder  
-:shipit: [**42tm**][42tm] founder & free software engineer
+:shipit: [**University of Rochester**][ur] Dean's Scholar, Computer Science '25  
+:shipit: [**UR Systems Research**][systems] REU student  
+:shipit: [**ACM SIGGRAPH**][siggraph] Student Member  
+:shipit: [**DandyHacks**][dandyhacks] 2021 1st Place winner, 2022 & 2023 organizer  
+:shipit: [**Abyss Inc.**][abyss] founder  
+:shipit: [**RocLab**][roclab] frontend engineer  
+:shipit: [**42tm**][42tm] founder & software engineer
 
-[fsf]:       https://member.fsf.org
-[cgcentral]: https://cgcentral.github.io
-[42tm]:      https://github.com/42tm
+[ur]: https://rochester.edu
+[siggraph]: https://siggraph.org
+[42tm]: https://github.com/42tm
+[systems]: https://www.cs.rochester.edu/dept/systems/
+[csug]: https://ur-csug.org
+[dandyhacks]: https://dandyhacks.net
+[roclab]: https://roclab.io
 
-Dev
+## Skills
+
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-F8981D?logo=java&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+
+_Other skills: :paintbrush: graphics design, :man_dancing: breakdancing,
+:skateboard: skateboarding, :computer_mouse: interactive experiences._
+
+### Software
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge)
+[![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://blender.org)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
+[![Helix](https://img.shields.io/badge/Helix-3b224c?style=for-the-badge)](https://helix-editor.com)
+[![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white&style=for-the-badge)](https://inkscape.org)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge)
+![NeoVim](https://img.shields.io/badge/NeoVim-57A143?logo=neovim&logoColor=white&style=for-the-badge)
+![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+[![Zellij](https://img.shields.io/badge/Zellij-A3BD8D?style=for-the-badge)](https://zellij.dev)
+[![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
+
+<p align="center">
+    <b>Looking for a software engineering intern?
+        <a href="https://www.linkedin.com/in/zach-nguyen">Let's connect and talk!</a>
+    </b>
+</p>
+
+### Interests
+
+Let's connect and talk about…
+
+algorithms, AR/VR, computer graphics, data structures, machine learning,
+parallel computing, programming languages, Rust, software design, web
+development,
+
+…or anything you'd like. （๑╹◡╹๑）
+
+GIF by Sand Castles Studio for their game Bread & Fred.
+
 ---
 
-:sunglasses: **JavaScript** ([lnagb.js][lnagbjs], [three.js sketches][three])  
-        :ox: **Bash** ([reveal-init][ri], [gnu][gnu], [battery][battery])  
-      :memo: **Atom** :atom:, nano, and vim  
-     :heart: **3D**, **the Web**, and **GNU/Linux**
-
-[lnagbjs]: https://github.com/cgcentral/lnagb.js
-[three]:   https://github.com/novakcgx/three.js-sketches
-[ri]:      https://github.com/novakcgx/reveal-init
-[gnu]:     https://github.com/novakcgx/gnu
-[battery]: https://github.com/novakcgx/battery
-
-- - -
-
-<a href="http://novakcgx.me">
+<!--<a href="https://novakcgx.me">
     <img height="32" align="left" alt="Website" src="img/icons/personal.png" />
+</a>-->
+
+<a href="mailto:duongnguyen18@siggraph.org">
+    <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
 </a>
 
-<a href="mailto:hi@novakcgx.me">
-    <img height="32" align="left" alt="Mail" src="img/icons/protonmail.png" />
+<a href="https://www.linkedin.com/in/zach-nguyen">
+    <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+</a>
+
+<a href="https://paypal.me/dnguy38">
+    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
+</a>
+
+<a href="https://www.buymeacoffee.com/cszach">
+    <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
+</a>
+
+<a href="https://liberapay.com/cszach">
+    <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
 </a>
 
 <a href="https://www.instagram.com/thechonkypenguin">
     <img height="32" align="left" alt="Instagram" src="img/icons/instagram.png" />
 </a>
 
-<a href="https://dribbble.com/novakcgx">
+<a href="https://dribbble.com/cszach">
     <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
 </a>
